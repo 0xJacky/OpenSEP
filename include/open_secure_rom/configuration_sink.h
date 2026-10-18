@@ -1,0 +1,4 @@
+#ifndef OPEN_SECURE_ROM_COMPAT_CONFIGURATION_SINK_H
+#define OPEN_SECURE_ROM_COMPAT_CONFIGURATION_SINK_H
+#include "open_secure_rom/platform/configuration_sink.h"
+#endif
